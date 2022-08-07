@@ -1,0 +1,77 @@
+header{
+  background-color: blue;
+
+}
+footer{
+  background-color: Green;
+
+}
+
+header, footer{
+ width: 100%;
+   height: 200px;
+
+}
+#zadel-text{
+  background-color: brown;
+}
+
+#handvat-text{
+  background-color: orange;
+}
+
+#koplamp-text{
+   background-color: purple;
+
+}
+
+
+#band-text{
+background-color: green;
+
+}
+
+#racefiets-text{
+  background-color: pink;
+}
+
+#mountingbike-text{
+  background-color: yellow;
+}
+
+#tandem-text{
+  background-color: violet;
+}
+
+#eenwieler-text{
+  background-color: blue;
+}
+
+#foto-zadel{
+  background-color: red;
+}
+
+#foto-handvat{
+  background-color: gray;
+}
+
+#foto-koplamp{
+  background-color: black;
+}
+
+#foto-band{
+  background-color: darkblue;
+}
+
+#foto-racefiets{
+  background-color: teal;
+}
+#foto-mountainbike{
+  background-color: gold;
+}
+#foto-tandem{
+  background-color: lightblue;
+}
+#foto-eenwieler{
+  background-color: lightpink;
+}
